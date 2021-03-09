@@ -5,3 +5,4 @@ Ny linje i arket
 Enda mer
 mer mer
 Legger til en mandagslinje
+Legger til noe tirsdag
